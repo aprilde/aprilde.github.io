@@ -1,0 +1,16 @@
+Class,Type,Amount,Kind
+Rent,Green,15.2,Necessity
+Food,Green,10.4,Necessity
+Groceries,Blue,6.8,Necessity
+Transit,Blue,7.2,Necessity
+Toileteries,Blue,5.6,Necessity
+Books,Blue,5.3,Leisure
+Savings,Blue,6.8,Necessity
+Workshops,Pink,4.3,Leisure
+Entertainment,Blue,5.8,Leisure
+Hobbies,Blue,8.8,Leisure
+Clothing,Pink,3.6,Necessity
+Coffee,Blue,5.1,Leisure
+Vacation,Blue,7.3,Leisure
+Utilities,Pink,4.7,Leisure
+Learning ,Pink,3.1,Leisure
